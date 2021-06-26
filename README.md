@@ -17,7 +17,7 @@ I'm Hussein Taher, a Software Engineer from Sweden.
 [![][hustle-card]][hustle-link]
 [![][dubu-opengl-app-card]][dubu-opengl-app-link]
 
-# 📈Github Stats
+## 📈Github Stats
 [![][github-stats]][home]
 [![][top-langs]][home]
 
