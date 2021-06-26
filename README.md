@@ -2,9 +2,10 @@
 
 # 👋Hi there!
 
-My name is Hussein Taher and I'm a Software Engineer from Sweden.
-- 🔭 I’m currently working on a collection of C++ libraries.
-- 🌱 I’m learning more about how to write C++ libraries in a way that makes them easy to integrate.
+I'm Hussein Taher, a Software Engineer from Sweden.
+- 🔭 Developing a collection of C++ libraries that can be used to build applications.
+- ⌨ Doing some Competitive Programming in my spare time.
+- 🌱 Learning Go and Scala
 - 💬 Ask me about C++ or CMake 😁
 - ⬜ Fun fact: I love tofu, so you will find the word _dubu_(두부) in a lot of my repositories because it's korean for tofu!
 
