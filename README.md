@@ -4,7 +4,7 @@
 
 I'm Hussein Taher, a Software Engineer from Sweden.
 - 🔭 Developing a collection of C++ libraries that can be used to build applications.
-- ⌨ Doing some Competitive Programming in my spare time.
+- ⌨ Solving Competitive Programming Problems on [kattis](https://open.kattis.com/users/dubulicious) in my spare time.
 - 🌱 Learning Go and Scala
 - 💬 Ask me about C++ or CMake 😁
 - ⬜ Fun fact: I love tofu, so you will find the word _dubu_(두부) in a lot of my repositories because it's korean for tofu!
