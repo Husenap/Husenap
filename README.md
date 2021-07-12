@@ -55,6 +55,6 @@ I'm Hussein Taher, a Software Engineer from Sweden.
 [dubu-opengl-app-link]: https://github.com/Husenap/dubu-opengl-app
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=husenap&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=husenap&langs_count=3&hide=html,glsl,c&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=husenap&langs_count=3&hide=html,glsl,cmake,c&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
 
 [home]: #
