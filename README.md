@@ -40,8 +40,6 @@ I'm Hussein Taher, a Software Engineer from Sweden.
 
 [The banner is from a shader I made](https://www.shadertoy.com/view/wt23R3)
 
-![](https://hit.yhype.me/github/profile?user_id=6496177)
-
 
 [dubu-pack-card]: https://github-readme-stats.vercel.app/api/pin/?username=husenap&repo=dubu-pack&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
 [dubu-pack-link]: https://github.com/Husenap/dubu-pack
