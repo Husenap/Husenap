@@ -3,6 +3,7 @@
 # 👋Hi there!
 
 I'm Hussein Taher, a Software Engineer from Sweden.
+- 📚 Currently studying Computer Science and Engineering @ Lund University
 - 🔭 Developing a collection of C++ libraries that can be used to build applications.
 - ⌨ Solving Competitive Programming Problems on [kattis](https://open.kattis.com/users/dubulicious) in my spare time.
 - 🌱 Learning Go and Scala
