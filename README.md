@@ -17,6 +17,7 @@ I'm Hussein Taher, a Software Engineer from Sweden.
 [![][cmake-project-template-card]][cmake-project-template-link]
 [![][hustle-card]][hustle-link]
 [![][dubu-opengl-app-card]][dubu-opengl-app-link]
+[![][dubu-rect-pack-card]][dubu-rect-pack-link]
 
 ## 📈Github Stats
 [![][github-stats]][home]
@@ -52,6 +53,8 @@ I'm Hussein Taher, a Software Engineer from Sweden.
 [hustle-link]: https://github.com/Husenap/hustle
 [dubu-opengl-app-card]: https://github-readme-stats.vercel.app/api/pin/?username=husenap&repo=dubu-opengl-app&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
 [dubu-opengl-app-link]: https://github.com/Husenap/dubu-opengl-app
+[dubu-rect-pack-card]: https://github-readme-stats.vercel.app/api/pin/?username=husenap&repo=dubu-rect-pack&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
+[dubu-rect-pack-link]: https://github.com/Husenap/dubu-rect-pack
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=husenap&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
 [top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=husenap&langs_count=3&hide=html,glsl,cmake,c&hide_border=true&border_radius=5&bg_color=20,993961,97785d&title_color=ff9cc5&text_color=ffdfc4&icon_color=E6E6E6
